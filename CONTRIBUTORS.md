@@ -11,6 +11,7 @@ Keep rows alphabetical by preferred public name.
 
 | Preferred public name | GitHub |
 | --- | --- |
+| Asmit Datta | [@sm11t](https://github.com/sm11t) |
 | Bill Qiu | [@zq2082](https://github.com/zq2082) |
 | Enhua Zhu | [@ezhu001](https://github.com/ezhu001) |
 | Yihan Yao | [@geenana](https://github.com/geenana) |
