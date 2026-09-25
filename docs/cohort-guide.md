@@ -21,6 +21,21 @@ case; the cohort shares learning, reusable assets, and research standards.
 No extra combined paper, custom agent framework, or weekly presentation is required.
 The reports index links each pair's contribution so future cohorts can build on it.
 
+## Sharing an experiment
+
+Pairs may share a workflow, reproduce one another's study or investigate related
+questions. An interested pair or two can start a propagation/containment study with
+one failure mechanism and one control; it remains an optional research direction.
+Keep each pair's case, individual tasks and report, linking the shared method and
+evidence so work is credited accurately. No extra coordination issue is needed.
+
+Common report headings do not make experiments directly comparable. For a shared
+comparison, agree compatible task selection, conditions, model/tool versions,
+labels, outcome definitions and denominators before collecting evaluation evidence.
+Record any differences and account for reused cases or traces rather than counting
+them as independent evidence. Otherwise, compare findings and limitations separately;
+do not combine incompatible rates into a single risk score.
+
 ## How partners share work
 
 Both partners contribute to understanding, design, evidence and interpretation.
@@ -58,6 +73,10 @@ are optional for later publication.
 Discuss paper authorship if a manuscript becomes realistic. Enrollment, coordination,
 and commit counts do not automatically establish authorship. Attribute shared assets
 and borrowed methods; disclose the relationship to Agent Assurance when relevant.
+Students can contribute to the shared methodology and cross-case synthesis as well
+as their pair study; credit follows actual work. A later paper or commercial project
+has separately agreed participation and workload. Course credit does not depend
+on publication, positive findings or commercial usefulness.
 
 ## Handoff
 

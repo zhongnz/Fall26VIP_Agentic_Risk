@@ -10,8 +10,15 @@ and holds slides or accessible exports/links. No additional cohort-wide paper is
 Add a row after partners agree and register the case in #3. No pairs or findings are
 assumed by this template.
 
-| Pair / partners | Case issue | Case document / final report | Midterm / final slides | Evidence / peer handoff check |
-| --- | --- | --- | --- | --- |
+| Pair / partners | Case issue | Question and finding | Case document / final report | Midterm / final slides | Evidence / peer handoff check |
+| --- | --- | --- | --- | --- | --- |
+
+Keep the summary to the bounded question and a short finding with its main limit;
+write "pending" until there is evidence. Reuse the case document's wording when
+updating this row at registration and handoff; it is not a separate report or
+weekly submission. The index helps the cohort find related questions and reusable
+work. Any later synthesis should cite the pair reports and distinguish differences
+in methods and evidence, following [the shared-study guidance](../cohort-guide.md#sharing-an-experiment).
 
 Use the case document for business motivation, question, sources, reviewed method,
 validation, evidence/analysis, limitations, contribution summary, reproduction and
