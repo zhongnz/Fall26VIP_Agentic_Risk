@@ -37,12 +37,26 @@ continuation of the starter or the expected detail of a first student outline.
 
 ## Examples of bounded questions
 
-These are illustrative ideas, not selected studies or ready datasets:
+These **seven optional starting ideas** are business workflows to narrow, not
+prepared studies or supplied datasets. Choose one, adapt it, or propose another
+workflow within the shared scope. Multiple pairs may choose the same workflow
+for complementary questions or a deliberate replication; topics are not reserved
+by the first pair to choose them. Link related Pair cases and credit shared work.
 
-| Possible case | Bounded question | Evidence to seek |
+| Possible workflow | Example bounded question | Small evidence route to check |
 | --- | --- | --- |
-| Order-processing workflow | When order details conflict, does an agent escalate appropriately or act on unsupported information? | Compare genuine records with conflicting versus consistent order details, using a declared sampling rule, documented policy and checked labels. Report incorrect actions, appropriate escalation and useful completion. Observed differences do not establish causes; recommendations remain untested unless evaluated separately. |
-| Refund workflow | Does checking source evidence before an agent's refund action reduce incorrect refunds? | The same tasks with and without the check; incorrect actions, correct completion and relevant cost. |
+| Financial research | Does checking cited source text reduce unsupported claims in an agent's research summary? | A fixed set of public documents and questions, with checked reference answers; compare runs with and without the check, including useful answers completed. |
+| Compliance | Does a source-version check reduce decisions based on outdated policy text? | A documented policy, clearly labeled outdated excerpts and matched tasks; check incorrect decisions and correct completion with and without the safeguard. |
+| Customer service / refunds | Does checking source evidence before an agent's refund action reduce incorrect refunds? | The same policy-based tasks with and without the check; incorrect actions, correct completion and relevant cost. |
+| Procurement / order processing | When order details conflict, does an agent escalate appropriately or act on unsupported information? | If genuine traces are accessible, compare conflicting versus consistent orders using a declared sample, documented policy and checked labels. Measure incorrect actions, appropriate escalation and useful completion; observed differences do not establish causes. |
+| Software / operations | Does validating tool output reduce incorrect file changes? | Agent runs in a small sandbox with defined permitted edits; compare a validator with no validator on matched tasks using clean and corrupted tool outputs. Check incorrect edits and valid tasks completed. |
+| Supply chain / inventory | Does refreshing a stale inventory record reduce commitments that cannot be fulfilled? | A small simulated ordering workflow with known stock and matched agent tasks; compare refresh versus no refresh, including correct orders completed. |
+| Credit / risk review | When application records conflict, does the agent flag them before making a recommendation? | Synthetic records, explicit review rules and checked labels; compare conflicting and consistent inputs. Assess rule-following and useful completion, not real-world creditworthiness. |
+
+For every idea, establish the business motivation from sources and verify that the
+needed environment or traces are accessible. Simulated inputs need genuine model
+runs for claims about agent behavior. See the [resource starting points](../literature.md#choose-a-starting-route).
+An improvement inferred from trace analysis remains a recommendation until tested.
 
 Start with one workflow, one main comparison and a small development example.
 Establish that the evidence is accessible before expanding the study. Choose enough
@@ -50,6 +64,14 @@ distinct cases to support the intended claim; a handful of examples may justify
 an exploratory finding, not a general effectiveness claim. Reuse existing tools
 and choose another accessible route if setup dominates the research. Neither a
 multi-agent system nor implementing a new framework adds academic value by itself.
+
+Keep measurement focused: choose one primary risk outcome and a relevant measure
+of useful work. Add cost, latency, propagation depth or persistence only when the
+question needs them. Define units and denominators; allow "not applicable" when
+a measure does not fit. For a propagation question, trace the error's origin,
+later influence, consequence and any containment; a wrong final answer alone does
+not establish the path. [Shared-study guidance](../cohort-guide.md#sharing-an-experiment)
+explains how pairs can collaborate without merging incompatible results.
 
 ## Selection and protocol
 

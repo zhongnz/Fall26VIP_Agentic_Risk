@@ -41,6 +41,24 @@ For each assigned reading, write a short note in your task or case document:
 **question; evidence/method; one limitation; implication for our case**. Link the
 source and relevant section. Expand only when the case needs deeper review.
 
+## Choose a starting route
+
+Pick the route that fits your question and current access. You do not need to
+install every platform or build a new agent framework.
+
+| Your immediate need | Where to start | Smallest useful check |
+| --- | --- | --- |
+| Understand a trace before choosing a method | [Optional starter walkthrough](starter-walkthrough.md) | Explain one worked trace and its limits; no API needed. This is practice, not empirical agent evidence. |
+| Compare agent decisions or one safeguard | A relevant existing environment from the [platform candidates](#platform-candidates-test-only-what-your-case-needs) | Inspect one task, its policy and outcome rules; with suitable access, capture a baseline run and verify how its result is scored. |
+| Analyze existing failures or evidence gaps | Accessible genuine traces linked by a primary source or shared in [#6](https://github.com/zhongnz/Fall26VIP_Agentic_Risk/issues/6) | Verify the records can actually be obtained, their reuse conditions, and whether one trace contains enough information to apply your proposed labels. Availability is not assumed. |
+
+A first successful check establishes feasibility, not a reliable effect estimate. Record
+it in your existing task or case: **source/version; command or sample; outcome
+check; access/cost; limitations**. Link reusable instructions in #6 so another pair
+can benefit. Mark a resource as tested only for the setup you actually checked;
+an official documentation link alone is an untested candidate. If blocked, record
+the blocker and narrow the next step with your partner.
+
 ## Platform candidates: test only what your case needs
 
 | Resource | Possible use | Preparation needed |
